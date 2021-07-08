@@ -1,4 +1,4 @@
-### Hi there, I'm Anthony 👋
+## Hi there, I'm Anthony 👋
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fanthonypang.github.io/portfolio/)](https://anthonypang.github.io/portfolio/)
 
 ### My Goals:
