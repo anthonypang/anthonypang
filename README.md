@@ -1,7 +1,7 @@
 ## Hi there, I'm Anthony 👋
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fanthonypang.github.io/portfolio/)](https://anthonypang.github.io/portfolio/)
 
-I am an aspiring Software Engineer currently pursuing a B.S. in Computer Science at the University of North Carolina at Charlotte
+I'm an aspiring Software Engineer currently pursuing a B.S. in Computer Science at the University of North Carolina at Charlotte
 
 ### My Goals:
 - Finish ["React Front To Back"](https://www.udemy.com/course/modern-react-front-to-back/ "React Front To Back")
