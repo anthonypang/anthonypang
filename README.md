@@ -1,7 +1,7 @@
 ## Hi there, I'm Anthony 👋
 
 
-I'm an aspiring Software Engineer currently pursuing a B.S. in Computer Science at the University of North Carolina at Charlotte
+A recent graduate from the University of North Carolina at Charlotte. In my free time, I have worked on multiple side projects in order to leverage experience building responsive and scalable applications. I have experience in both front and back-end development using technologies such as JavaScript, React, NodeJS, and Express.
 
 ### My Goals:
 - Finish Portfolio Website
