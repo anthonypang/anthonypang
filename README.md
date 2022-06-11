@@ -4,11 +4,11 @@
 I'm an aspiring Software Engineer currently pursuing a B.S. in Computer Science at the University of North Carolina at Charlotte
 
 ### My Goals:
-- Create Portfolio Website
+- Finish Portfolio Website
 - Finish ["The Complete 2022 Web Development Bootcamp"](https://www.https://www.udemy.com/course/the-complete-web-development-bootcamp/ "The Complete 2022 Web Development Bootcamp")
 - Finish ["React Front To Back"](https://www.udemy.com/course/modern-react-front-to-back/ "React Front To Back")
 - Contribute more to Open Source projects
-- Graduate college with a B.S. in Computer Science
+
 
 
 ### Connect with me:
