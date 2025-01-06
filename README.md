@@ -1,14 +1,21 @@
 ## Hi there, I'm Anthony 👋
 
 
-A recent graduate from the University of North Carolina at Charlotte. In my free time, I have worked on multiple side projects in order to leverage experience building responsive and scalable applications. I have experience in both front and back-end development using technologies such as JavaScript, React, NodeJS, and Express.
+### Front-End Engineer | Building Scalable, User-Centric Web Applications
 
-### My Goals:
-- Finish Portfolio Website
-- Finish ["The Complete 2022 Web Development Bootcamp"](https://www.https://www.udemy.com/course/the-complete-web-development-bootcamp/ "The Complete 2022 Web Development Bootcamp")
-- Finish ["React Front To Back"](https://www.udemy.com/course/modern-react-front-to-back/ "React Front To Back")
-- Contribute more to Open Source projects
+Hi, I’m Anthony Pang—a passionate Front-End Engineer with over 2 years of experience in crafting performant, scalable, and visually engaging web applications. My expertise lies in React, TypeScript, and modern web technologies, combined with a deep understanding of UX/UI design principles and cross-functional collaboration.
 
+At the core of my work is a commitment to delivering high-quality solutions that drive user engagement and team efficiency. I’ve developed reusable component libraries tailored to design specifications (e.g., custom Material-UI components), boosting development speed and maintaining consistency across projects. From partnering with product managers to collaborating with designers and QA teams, I thrive in dynamic environments where I can solve complex problems and contribute to impactful products.
+
+#### 🔑 Key Skills:
+
+Front-End Development (React, TypeScript, Redux, Material-UI)
+Scalable Architecture & Performance Optimization
+API Integration (GraphQL & RESTful APIs)
+Agile Development & Team Collaboration
+I’m driven by a love for technology and continuous learning. Whether it's mentoring junior engineers, improving development workflows, or exploring the latest advancements in web development, I aim to leave a lasting impact on the projects and teams I’m part of.
+
+Let’s connect and build something incredible together! 🚀
 
 
 ### Connect with me:
@@ -17,11 +24,10 @@ A recent graduate from the University of North Carolina at Charlotte. In my free
 
 
 ### Languages and Tools:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
