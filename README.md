@@ -3,7 +3,7 @@
 
 ### Front-End Engineer | Building Scalable, User-Centric Web Applications
 
-Hi, I’m Anthony Pang—a passionate Front-End Engineer with over 2 years of experience in crafting performant, scalable, and visually engaging web applications. My expertise lies in React, TypeScript, and modern web technologies, combined with a deep understanding of UX/UI design principles and cross-functional collaboration.
+Hi, I’m Anthony Pang-a passionate Software Engineer with over 2 years of experience in crafting performant, scalable, and visually engaging web applications. My expertise lies in React, TypeScript, and modern web technologies, combined with a deep understanding of UX/UI design principles and cross-functional collaboration.
 
 At the core of my work is a commitment to delivering high-quality solutions that drive user engagement and team efficiency. I’ve developed reusable component libraries tailored to design specifications (e.g., custom Material-UI components), boosting development speed and maintaining consistency across projects. From partnering with product managers to collaborating with designers and QA teams, I thrive in dynamic environments where I can solve complex problems and contribute to impactful products.
 
